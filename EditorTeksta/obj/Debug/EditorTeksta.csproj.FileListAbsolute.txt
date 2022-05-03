@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\EditorTeksta\bin\Debug\EditorTeksta.exe.config
+C:\Users\ucenik\source\repos\EditorTeksta\bin\Debug\EditorTeksta.exe
+C:\Users\ucenik\source\repos\EditorTeksta\bin\Debug\EditorTeksta.pdb
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.Form1.resources
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.Properties.Resources.resources
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.exe
+C:\Users\ucenik\source\repos\EditorTeksta\obj\Debug\EditorTeksta.pdb
